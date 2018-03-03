@@ -1,0 +1,23 @@
+{
+  "name": "mysql--homework",
+  "version": "1.0.0",
+  "description": "We will be creating an Amazon-like storefront app, called Bamazon, using MySQL, NPM Package, and the Prompt Package.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EyowINC/mysql--Homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EyowINC/mysql--Homework/issues"
+  },
+  "homepage": "https://github.com/EyowINC/mysql--Homework#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0"
+  }
+}
